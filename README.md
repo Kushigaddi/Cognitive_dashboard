@@ -51,9 +51,10 @@ Example:
 
 ## 💻 Installation
 
-1. Clone the repo:
+The following are the steps to install:
 
 ```bash
+//1. Clone the repo:
 git clone https://github.com/username/cognitive-dashboard.git
 cd cognitive-dashboard
 
@@ -61,3 +62,79 @@ cd cognitive-dashboard
 
 git clone https://github.com/username/cognitive-dashboard.git
 cd cognitive-dashboard
+
+// 2. Install dependencies:
+
+npm install
+
+
+Ensure students.json is in public/data/
+
+//▶️ Run Locally
+npm run dev
+
+
+//Open: http://localhost:3000
+
+//📦 Deployment (Vercel)
+
+//Install Vercel CLI:
+
+npm install -g vercel
+
+
+//Login:
+
+vercel login
+
+
+//Deploy:
+
+vercel
+
+
+//Update production:
+
+//vercel --prod
+
+//📂 Folder Structure
+cognitive-dashboard/
+│
+├─ components/
+│   ├─ OverviewStats.js
+│   ├─ BarChart.js
+│   ├─ ScatterChart.js
+│   ├─ RadarChart.js
+│   ├─ StudentTable.js
+│   └─ Insights.js
+│
+├─ pages/
+│   └─ index.js
+│
+├─ public/data/
+│   └─ students.json
+│
+├─ package.json
+└─ README.md
+
+//🔮 Future Improvements
+
+//Add filters by class or skill range
+
+//Integrate real student API
+
+//Export charts & tables to CSV or PDF
+
+//Add interactive tooltips on charts
+
+//Improve mobile responsiveness
+
+//📜 License
+
+Open-source. Free to use and modify.
+
+
+
+---
+
+
