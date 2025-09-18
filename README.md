@@ -7,8 +7,7 @@ Analyze comprehension, attention, focus, retention, and assessment scores throug
 ---
 
 ## 🚀 Live Demo
-
-[🔗 View Dashboard on Vercel]([https://cognitive-dashboard.vercel.app](https://cognitive-dashboard-jfk2-lyikbefjg-kushigaddis-projects.vercel.app/))  
+ https://cognitive-dashboard-jfk2-lyikbefjg-kushigaddis-projects.vercel.app/  
 *(Update with your deployed link)*
 
 ---
