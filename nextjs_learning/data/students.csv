@@ -1,0 +1,11 @@
+student_id,name,class,comprehension,attention,focus,retention,assessment_score,engagement_time
+1,Student 1,Grade 6,78,70,74,75,76,45
+2,Student 2,Grade 7,88,82,85,80,86,60
+3,Student 3,Grade 8,65,58,62,60,61,30
+4,Student 4,Grade 9,92,90,93,95,94,80
+5,Student 5,Grade 10,55,60,58,52,57,25
+6,Student 6,Grade 11,70,68,72,66,69,40
+7,Student 7,Grade 12,81,79,80,78,80,55
+8,Student 8,Grade 10,47,50,45,42,46,20
+9,Student 9,Grade 9,99,95,97,98,97,100
+10,Student 10,Grade 8,73,75,70,72,74,35
